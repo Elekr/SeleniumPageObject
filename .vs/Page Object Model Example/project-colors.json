@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea91e2a6-7572-4168-ac73-4cc38b9eafb4": {
+      "ProjectGuid": "ea91e2a6-7572-4168-ac73-4cc38b9eafb4",
+      "DisplayName": "Page Object Model Example",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
